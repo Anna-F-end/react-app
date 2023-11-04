@@ -1,0 +1,13 @@
+.name {
+    font-size:1.5rem;
+    color:darkblue;
+    font-style:italic;
+}
+.id {
+    color:rgb(212, 169, 49);
+    font-weight:bold;
+}
+.mail {
+    font-size:1.2rem;
+    color:blueviolet;
+}
